@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/eomjinyoung/eomjinyoung.gi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-# 관련 페이지
+### 관련 페이지
 - [엄진영의 코딩스쿨](https://eomcs.github.io)
 
 ### Markdown
